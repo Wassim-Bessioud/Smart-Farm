@@ -1,2 +1,2 @@
-# Smart-Farm
+# Algorithm-Encryptors
 Employee and equipment management application
